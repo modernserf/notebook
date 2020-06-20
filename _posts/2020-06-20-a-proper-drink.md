@@ -1,6 +1,7 @@
-# A Proper Drink
-
-_2020-06-20_
+---
+layout: post
+title: A Proper Drink
+---
 
 I spent the first half of my twenties -- 2006 thru 2010 -- living in Boston, working at Walgreens, and cycling through hobbies and affectations. The three pillars of my self-identity during this period were synthesizers, cocktails, and "dandy" menswear; while working the long, slow night shifts at Walgreens I would hide in the photo lab and sketch out my fantasies of a "speakeasy" where I'd serve craft cocktails and host electro-pop shows, presumably while dressed like Beau Brummel or whatever.
 
