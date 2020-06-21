@@ -7,9 +7,7 @@ title: Fireworks and psychological warfare
 
 If you live in a major US city, you have probably heard (and possibly seen) way more fireworks this summer than you ever have before. If you spend a lot of time on twitter (which seems likely for my audience), you have probably encountered this thread:
 
-> Reporting from Brooklyn, there was yet another night of extremely loud fireworks starting at 8 pm. and ending at about 2 a.m. This is the second week straight of this; every night during the same time period, like clockwork.
-
-https://twitter.com/sonofbaldwin/status/1274341681563938821
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reporting from Brooklyn, there was yet another night of extremely loud fireworks starting at 8 pm. and ending at about 2 a.m. This is the second week straight of this; every night during the same time period, like clockwork.</p>&mdash; Son of Baldwin (Robert Jones, Jr.) (@SonofBaldwin) <a href="https://twitter.com/SonofBaldwin/status/1274341681563938821?ref_src=twsrc%5Etfw">June 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The tl;dr is that:
 - the cops are responsible for the fireworks, both directly (setting them off themselves) or indirectly (distributing them to the community)
