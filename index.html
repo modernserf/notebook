@@ -1,0 +1,11 @@
+---
+title: modernserf's Notebook
+layout: page
+---
+
+{% for post in site.posts %}
+  <article>
+    <h2><a href="/notebook{{post.url}}">{{post.title}}</a></h2>
+    {{post.content}}
+  </article>
+{% endfor %}
