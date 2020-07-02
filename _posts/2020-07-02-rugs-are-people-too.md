@@ -29,7 +29,7 @@ Wonderfully hypnotic pattern. Perhaps too muted in color and design to work as a
 [Lilianne](https://www.revivalrugs.com/products/lilianne)
 ![Lilianne rug](https://cdn.shopify.com/s/files/1/1718/8557/products/MTNR043BC17001994_MTN1994_1ove_2048x.jpg?v=1586817140)
 
-Good pattern with strong central medallian; probably too muted in color. Also, though this would be no harder to clean than any other wool rug, just looking at it makes me anxious about spilling something on it.
+Good pattern with strong central medallion; probably too muted in color. Also, though this would be no harder to clean than any other wool rug, just looking at it makes me anxious about spilling something on it.
 
 [Peegen](https://www.revivalrugs.com/products/pegeen)
 ![Peegen rug](https://cdn.shopify.com/s/files/1/1718/8557/products/SDGR043MC14000187_1ove_2048x.jpg?v=1586821588)
